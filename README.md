@@ -66,6 +66,11 @@
 3. Запустить Stage A (DreamBooth‑LoRA)  
 4. Запустить Stage B (Inpaint‑LoRA) с использованием LoRA из Stage A  
 5. Выполнить генерацию/инпейнт по примеру из docs/PROMPTS.md
+6.
+[DATA_PREPARATION.md](docs/DATA_PREPARATION.md) - структура данных
+[STAGE_A_TRAINING.md](docs/STAGE_A_TRAINING.md) - обучение DreamBooth
+[STAGE_B_TRAINING.md](docs/STAGE_B_TRAINING.md) - обучение Inpaint
+
 
 ---
 
