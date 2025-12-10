@@ -1,1 +1,3 @@
-
+datasets.py
+– классы ImgSetDataset, InpaintSetOnTheFlyDataset и билдеры путей, которые у тебя уже описаны в Trebovaniia-k-kodu…
+– функции для загрузки списков путей, генерации синтетических масок (по типу synthetic_ear_mask), сборки train/val наборов по manifests.
