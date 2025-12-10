@@ -1,12 +1,13 @@
 # ear-reconstructor-lora
-🎨 AI-powered ear reconstruction for portrait enhancement.  Two-stage LoRA training (DreamBooth + Inpaint) on Stable Diffusion 1.5.  Age-aware, pose-aware, anatomically correct.  Photorealistic results with automatic quality control.
-ear-reconstructor-lora-inpaint
-[](https://github.com/USER/ear-reconstructor-lora-inpaint#ear-reconstructor-lora-inpaint)
-LoRA/Inpaint-пайплайн для реалистичной реконструкции уха на портретах (Stable Diffusion, Diffusers, PyTorch)
 
-🎨 Ear Reconstruction LoRA Inpaint
-[](https://github.com/USER/ear-reconstructor-lora-inpaint#-ear-reconstruction-lora-inpaint)
+🎨 **AI-powered ear reconstruction for portrait enhancement. Two-stage LoRA training (DreamBooth + Inpaint) on Stable Diffusion 1.5. Age-aware, pose-aware, anatomically correct. Photorealistic results with automatic quality control.**
+
+---
+
+## 📋 О проекте
 Система обучения LoRA-моделей и инпейнтинга для фотореалистичной реконструкции уха на портретах. Поддерживает несколько возрастных групп, разные ракурсы (front/side/back), позы (standing/sitting/supine/prone), а также автоматический QC датасета и балансировку выборки.
+
+---
 
 🔧 Что умеет
 [](https://github.com/USER/ear-reconstructor-lora-inpaint#-%D1%87%D1%82%D0%BE-%D1%83%D0%BC%D0%B5%D0%B5%D1%82)
